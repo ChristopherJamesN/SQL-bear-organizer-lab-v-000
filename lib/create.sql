@@ -1,5 +1,6 @@
 CREATE TABLE bears
-  (name TEXT,
+  (id INTEGER,
+    name TEXT,
   age INTEGER,
   gender TEXT,
   color TEXT,
